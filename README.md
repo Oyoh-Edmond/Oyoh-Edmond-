@@ -25,10 +25,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css%20-%2343853D.svg?&style=for-the-badge&logo=css&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <p align="center">Python, Docker, Kubernetes, Git, Github, Apache, Nginx, Vagrant, Azure, AWS, Terraform, Digital Oceans, Postgres.</p>
 </p>
 
+<hr>
+
+<h2 align="center">💬 My Blog Articles</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://dev.to/oyohedmond"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
